@@ -1,0 +1,368 @@
+
+.boody{
+  font-family: "Montserrat";
+
+}
+
+
+.logo{
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+
+
+
+
+.atit{
+  margin-top: 60px;
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+
+.container-fluidd{
+  padding: 3% 15%;
+}
+
+.image{
+  margin-top: 5%;
+  height: 80%;
+}
+
+/* navhead */
+.navsat{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 2.5rem;   /*not workinng*/
+  font-weight: bold;
+  padding-top: 3rem;
+  padding-bottom: 4.5rem;
+}
+
+.barrr{
+  padding-top: 3rem;
+  padding-bottom: 4.5rem;
+}
+
+.itemm{
+  padding: 0 18px;
+}
+
+/* button */
+
+.downlaod_button{
+  margin: 5% 3% 5% 0;
+}
+
+
+/* head image */
+
+.headimage{
+  width: 110%;
+  height: 90%;
+  margin-left: 20%;
+  transform: rotate(25deg);
+  position: relative;
+
+}
+
+.subhead{
+  transform: rotate(-25deg);
+margin-left: 25%;
+  width:120%;
+  height:80%;
+  top: 20%;
+  position: relative;
+
+}
+
+.catey{
+  position: relative;
+  background-color: white;
+  z-index: 1;
+  bottom: 100px;
+  padding-top: 60px;
+
+
+
+}
+
+
+/* midimage */
+
+
+.headdd{
+  text-align: center;
+  font-family: "Montserrat-Black";
+
+
+}
+
+.headddd{
+  font-size: 3rem;
+}
+
+.leftimage{
+  width: 70%;
+  height:100%;
+  padding-top: 10%;
+  margin-left: 30%;
+  transform: rotate(25deg);
+
+  padding-bottom: 30%;
+
+}
+
+.rightimage{
+  padding-top:10%;
+  transform: rotate(-25deg);
+margin-left:20%;
+  width:70%;
+  height:100%;
+  top: 50%;
+
+  padding-bottom: 30%;
+
+}
+
+/* midimagecontent */
+.atitt{
+ padding-top: 10%;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #EF8172;
+}
+
+.atittt{
+  margin-left: 10%;
+  margin-top: 60px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+    color: #EF8172;
+}
+
+.atitttt{
+  margin-left:20%;
+  margin-top: 60px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+    color: #EF8172;
+}
+
+.atitt:hover{
+  color: #ff4c68;
+}
+
+.atittt:hover{
+  color: #ff4c68;
+}
+
+.atitttt:hover{
+  color: #ff4c68;
+}
+
+
+
+/* middle */
+#middle{
+  background-color:#EF8172;
+  margin-bottom: 10%;
+  padding: 7% 15%;
+}
+
+.lowerimage{
+  padding-top: 20%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+  /* position: relative;
+  right: 10%; */
+  width: 80%;
+  display: block;
+
+}
+
+
+.texti{
+  padding-top: 10%;
+
+  margin-bottom: 10%;
+  padding-bottom: 10%;
+  font-family: 'Patrick Hand', cursive;
+
+}
+
+.centreal{
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+
+/* features */
+#features{
+  padding: 7% 15%;
+}
+
+.lowlowim{
+  text-align: center;
+}
+
+.psd{
+  padding: 3% 15%;
+  color: #8f8f8f;
+  font-family: "Montserrat-Bold";
+  font-size: 1.3rem;
+}
+
+
+.h33{
+  font-family: "Montserrat-Bold";
+  font-weight: bold;
+}
+
+.dic{
+  color: #EF8172;
+  margin-bottom: 1.5rem;
+}
+
+.dic:hover{
+  color: #ff4c68;
+}
+
+
+/* testmonial */
+#testimonials {
+
+  text-align: center;
+  background-color: #EF8172;
+  color: white;
+}
+
+.h222{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimage{
+  width: 15%;
+  border-radius: 100%;
+  margin: 5%;
+}
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#press{
+  background-color: #EF8172;
+  text-align: center;
+  padding-bottom:  7%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.presslogo{
+  width: 15%;
+  margin: 20px 50px 50px;
+}
+
+
+/* pricing */
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+
+.pricingg{
+  padding: 3% 2%;
+}
+
+.h2222{
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+#cta{
+  background-color: #ff4c68;
+  color: white;
+  padding: 10% 18%;
+  text-align: center;
+  font-family: "Montserrat-Black";
+}
+
+.lasp{
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+#footer{
+  padding: 7% 10%;
+  text-align: center;
+}
+
+.soicon{
+  margin: 20px 20px;
+  color: #EF8172;
+}
+
+
+
+@media (max-width:992px ){
+  .boody{
+
+  }
+
+  .tocen{
+    text-align: center;
+  }
+  .headimage{
+    transform: rotate(0);
+    width: 50%;
+    margin: 0 auto 0 auto;
+
+  }
+  .subhead{
+    transform: rotate(0);
+      width: 50%;
+      padding-bottom: 25%;
+
+      height:100%;
+    top: 3%;
+    margin: 0 auto 0 auto;
+ }
+
+  .catey{
+    z-index: 0;
+    text-align: center;
+  }
+
+  .leftimage{
+    transform: rotate(0);
+    width: 50%;
+    margin: 0 auto 0 auto;
+
+
+  }
+  .rightimage{
+    margin: 0 auto 0 auto;
+    transform: rotate(0);
+    width: 50%;
+
+
+  }
+
+}
